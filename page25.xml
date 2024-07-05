@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5309" lry="7115" xml:id="facs_25">
+         <graphic url="0025_025_11r.jpeg" width="5309px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DPOWDSDZTLVREYMAORZQBBOU&amp;fileType=view" width="5309px" height="7115px"/>
+         <zone points="4672,365 4758,365 4758,542 4672,542" rendition="TextRegion" xml:id="facs_25_r_1281" subtype="page-number">
+            <zone points="4636,309 4721,309 4721,576 4636,576" rendition="Line" xml:id="facs_25_l_1290"/>
+         </zone>
+         <zone points="95,991 5043,991 5043,6594 95,6594" rendition="TextRegion" xml:id="facs_25_tr_1" subtype="paragraph">
+            <zone points="3127,921 3533,921 3533,1127 3127,1127" rendition="Line" xml:id="facs_25_tr_1_tl_1"/>
+            <zone points="61,970 4600,970 4600,1357 61,1357" rendition="Line" xml:id="facs_25_tr_1_tl_2"/>
+            <zone points="91,1273 4630,1273 4630,1594 91,1594" rendition="Line" xml:id="facs_25_tr_1_tl_3"/>
+            <zone points="121,1521 4945,1521 4945,1957 121,1957" rendition="Line" xml:id="facs_25_tr_1_tl_4"/>
+            <zone points="109,1860 4854,1860 4854,2272 109,2272" rendition="Line" xml:id="facs_25_tr_1_tl_5"/>
+            <zone points="127,2151 4884,2151 4884,2563 127,2563" rendition="Line" xml:id="facs_25_tr_1_tl_6"/>
+            <zone points="133,2472 4854,2472 4854,2824 133,2824" rendition="Line" xml:id="facs_25_tr_1_tl_7"/>
+            <zone points="121,2794 4739,2794 4739,3163 121,3163" rendition="Line" xml:id="facs_25_tr_1_tl_8"/>
+            <zone points="127,3048 4787,3048 4787,3442 127,3442" rendition="Line" xml:id="facs_25_tr_1_tl_9"/>
+            <zone points="176,3388 4660,3388 4660,3769 176,3769" rendition="Line" xml:id="facs_25_tr_1_tl_10"/>
+            <zone points="158,3672 4884,3672 4884,4024 158,4024" rendition="Line" xml:id="facs_25_tr_1_tl_11"/>
+            <zone points="164,3969 5030,3969 5030,4327 164,4327" rendition="Line" xml:id="facs_25_tr_1_tl_12"/>
+            <zone points="170,4266 4890,4266 4890,4636 170,4636" rendition="Line" xml:id="facs_25_tr_1_tl_13"/>
+            <zone points="182,4569 4981,4569 4981,4927 182,4927" rendition="Line" xml:id="facs_25_tr_1_tl_14"/>
+            <zone points="158,4854 4878,4854 4878,5260 158,5260" rendition="Line" xml:id="facs_25_tr_1_tl_15"/>
+            <zone points="188,5163 4703,5163 4703,5563 188,5563" rendition="Line" xml:id="facs_25_tr_1_tl_16"/>
+            <zone points="182,5436 4630,5436 4630,5866 182,5866" rendition="Line" xml:id="facs_25_tr_1_tl_17"/>
+            <zone points="224,5745 4993,5745 4993,6121 224,6121" rendition="Line" xml:id="facs_25_tr_1_tl_18"/>
+            <zone points="255,6042 4957,6042 4957,6460 255,6460" rendition="Line" xml:id="facs_25_tr_1_tl_19"/>
+            <zone points="242,6333 994,6333 994,6775 242,6775" rendition="Line" xml:id="facs_25_tr_1_tl_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_25" n="25" xml:id="img_0025"/><fw type="page-number" facs="#facs_25_r_1281" place="top">
+               <l facs="#facs_25_l_1290" n="N001">9</l></fw>
+            <p facs="#facs_25_tr_1">
+               <l facs="#facs_25_tr_1_tl_1" n="N001"><add place="above"><unclear>edlacie</unclear></add></l>
+               <l facs="#facs_25_tr_1_tl_2" n="N002">the charge of the murder of <choice><expan>Mister</expan><abbr>Mr</abbr></choice>. <rs type="person" key=", Jonas" firstname="Jonas">Jonas</rs> <unclear>Cuper</unclear>. It is atleast</l>
+               <l facs="#facs_25_tr_1_tl_3" n="N003">certain that a warrant has been issued. There have been</l>
+               <l facs="#facs_25_tr_1_tl_4" n="N004">further and <unclear>sunster</unclear> divelopments in the investigation</l>
+               <l facs="#facs_25_tr_1_tl_5" n="N005">at <unclear>Norwood</unclear>. Besides the <unclear>syns</unclear> of a struggle in the room</l>
+               <l facs="#facs_25_tr_1_tl_6" n="N006">of the unfortunate builder it is now known that the French</l>
+               <l facs="#facs_25_tr_1_tl_7" n="N007">windows of his bedroom (which were on the ground floor</l>
+               <l facs="#facs_25_tr_1_tl_8" n="N008">were found to be open. That there were marks as if</l>
+               <l facs="#facs_25_tr_1_tl_9" n="N009">some <unclear>butly</unclear> object had been dragged across to the wood</l>
+               <l facs="#facs_25_tr_1_tl_10" n="N010">pile, and finally this is asserted that charred <unclear>a</unclear></l>
+               <l facs="#facs_25_tr_1_tl_11" n="N011">remains have been found among the charcoal ashes of</l>
+               <l facs="#facs_25_tr_1_tl_12" n="N012">the fire. The police theory is that a most sensational crime</l>
+               <l facs="#facs_25_tr_1_tl_13" n="N013">has been committed, that the victim was clubbed to death</l>
+               <l facs="#facs_25_tr_1_tl_14" n="N014">in his own bedroom, his prapers rifled, and his dead body</l>
+               <l facs="#facs_25_tr_1_tl_15" n="N015">dragged across to the wood stack which was then <unclear>quited</unclear></l>
+               <l facs="#facs_25_tr_1_tl_16" n="N016">so as to hide all traces of the crime. The conduct of the</l>
+               <l facs="#facs_25_tr_1_tl_17" n="N017">criminal investigation has been left in the experienced</l>
+               <l facs="#facs_25_tr_1_tl_18" n="N018">hands of Inspector <rs type="person">Lestrade</rs> of Scobland yard who is</l>
+               <l facs="#facs_25_tr_1_tl_19" n="N019">following up the clues with his accustomed energy and</l>
+               <l facs="#facs_25_tr_1_tl_20" n="N020">sajacity.</l></p></div>
+      </body>
+   </text>
+</TEI>
